@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Sieun Hwang
 
-<!--
-**m1ka-ela/m1ka-ela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a game developer working across game design and implementation.
+I build games in Unity and love bringing AI into them: LLMs, speech recognition, and image generation.
 
-Here are some ideas to get you started:
+### Tech Stack
+- **Game**: Unity, C#
+- **AI/ML**: Python, PyTorch, Hugging Face, LLM fine-tuning
+- **Backend**: FastAPI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+| Project | Description | Role |
+| --- | --- | --- |
+| [AIming](link) | A mystery escape game where you solve puzzles with a fine-tuned LLM companion through prompts | Game dev, AI |
+| [SwuriSwuri](link) | A 3D action game where you cast spells with your voice | Unity 3D client |
+| AdCanvas (in progress) | A generative AI service that turns food photos into ad images | Background removal model |
+
+### Currently
+- Fine-tuning a BiRefNet-based model for food background removal
